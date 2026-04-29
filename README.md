@@ -26,7 +26,7 @@ REST API para gestión de tareas personales con autenticación JWT y base de dat
 ## Instalación y uso
 
 1. Clonar el repositorio
-   git clone https://github.com/tu-usuario/task-manager-api.git
+   git clone https://github.com/emanuelszevaga/task-manager-api.git
    cd task-manager-api
 
 2. Copiar el archivo de variables de entorno
