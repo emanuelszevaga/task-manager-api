@@ -92,6 +92,7 @@ Los valores válidos para status son: pending | in_progress | done
 
 ## Estructura del proyecto
 
+```text
 task-manager-api/
 ├── src/
 │   ├── config/
